@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshubajaj&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshubajaj" /> </p>
 
-- 🔭 I’m currently working in *Sopra Steria, India*
+- 🔭 I’m currently working in <a href="https://www.soprasteria.in/" target="_blank">*Sopra Steria, India*</a>
 
 - 🌱 I’m currently learning *other Technologies like : React, React-Native, etc.*
 
