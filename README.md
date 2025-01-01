@@ -42,11 +42,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<!-- Gmail with Subject -->
-<a href="mailto:deepanshu.bajaj98@gmail.com?subject=Hey Deepanshu! Got You Connected from Github" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="deepanshu-bajaj-gmail" width="40" height="40" />
-</a>
-
 <!-- Linkdin -->
 <a href="https://www.linkedin.com/in/deepanshu-bajaj-3887a3192/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-bajaj-3887a3192" height="30" width="40" />
@@ -67,6 +62,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="deepanshu-bajaj-snapchat" height="30" width="40" />
 </a>
 
+<!-- Gmail with Subject -->
+<a href="mailto:deepanshu.bajaj98@gmail.com?subject=Hey Deepanshu! Got You Connected from Github" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="deepanshu-bajaj-gmail" width="40" height="40" />
+</a>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
