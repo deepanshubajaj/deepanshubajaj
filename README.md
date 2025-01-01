@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- Gmail with Subject -->
 <a href="mailto:deepanshu.bajaj98@gmail.com?subject=Hey Deepanshu! Got You Connected from Github" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="deepanshu-bajaj-gmail" height="30" width="40" />
+  <img src="images/gmail2020.svg" alt="deepanshu-bajaj-gmail" width="40" height="40" />
 </a>
 
 <!-- Linkdin -->
