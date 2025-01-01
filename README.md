@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 <!-- Gmail -->
-<a href="mailto:deepanshu.bajaj98@gmail.com?subject=Hey Deepanshu! Got You Connected from Github!" target="blank">
+<a href="mailto:deepanshu.bajaj98@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="deepanshu-bajaj-gmail" height="30" width="40" />
 </a>
 
