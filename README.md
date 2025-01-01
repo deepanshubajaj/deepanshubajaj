@@ -41,8 +41,27 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepanshu-bajaj-3887a3192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-bajaj-3887a3192" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deepanshu.bajaj98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdeepanshu.bajaj98" height="30" width="40" /></a>
+
+<!-- Linkdin -->
+<a href="https://www.linkedin.com/in/deepanshu-bajaj-3887a3192/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-bajaj-3887a3192" height="30" width="40" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/deepanshu.bajaj98/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdeepanshu.bajaj98" height="30" width="40" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/share/19reqx7n8H/?mibextid=wwXIfr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepanshu-bajaj-facebook" height="30" width="40" />
+</a>
+
+<!-- Snapchat -->
+<a href="https://snapchat.com/t/UojtxmwL" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="deepanshu-bajaj-snapchat" height="30" width="40" />
+</a>
+
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
