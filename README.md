@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Github Stats:</h3>
 <p align="left">
   <!-- Languages and Tools Section (same as before) -->
 </p>
